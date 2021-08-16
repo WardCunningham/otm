@@ -53,7 +53,16 @@
       "description": "45.4861012,-122.7512866\n\nGoogle Map https://www.google.com/maps/place/SW+Beaverton+Hillsdale+Hwy+%26+SW+Scholls+Ferry+Rd,+Raleigh+Hills,+OR+97225/@45.4861012,-122.7512866,17z/data=!3m1!4b1!4m5!3m4!1s0x54950bf27e2fca17:0xee50ff7df6c6ffe5!8m2!3d45.4861012!4d-122.7490979",
       "type": "latlon",
       "scale": "3"
+    },
+    "Montclair Wetland": {
+      "dot": [
+        3003,
+        2914
+      ],
+      "description": "The wetland hosts an AM radio tower and the red-tailed hawk that became a mascot for the Montclair Elementary School.\n\nTrail wiki. http://trails.ward.asia.wiki.org/view/montclair-wetland",
+      "type": "place",
+      "scale": "3"
     }
   },
-  "date": 1628868783023
+  "date": 1629155852078
 }
