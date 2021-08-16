@@ -1,0 +1,41 @@
+{
+  "things": {
+    "Tewksbury Road at Westminster": {
+      "dot": [
+        933,
+        2349
+      ],
+      "description": "45.4053389,-122.8253013\n\nGoogle map https://www.google.com/maps/place/45%C2%B024'20.3%22N+122%C2%B049'31.1%22W/@45.4053389,-122.8253013,18.26z/data=!4m6!3m5!1s0x0:0x0!7e2!8m2!3d45.4056325!4d-122.8252907",
+      "type": "latlon",
+      "scale": "3"
+    },
+    "75th Avenue at Locust": {
+      "dot": [
+        3417,
+        677
+      ],
+      "description": "45.4466167,-122.7562967\n\nGoogle Map https://www.google.com/maps/place/45%C2%B026'47.8%22N+122%C2%B045'14.8%22W/@45.4466167,-122.7562967,17z/data=!3m1!4b1!4m9!1m2!2m1!1ssenn+park!3m5!1s0x0:0x0!7e2!8m2!3d45.4466128!4d-122.7541081",
+      "type": "latlon",
+      "scale": "3"
+    },
+    "Hunters Glen": {
+      "dot": [
+        2119,
+        1473
+      ],
+      "description": "",
+      "type": "place",
+      "scale": "3"
+    },
+    "City of Tigard Parks": {
+      "dot": [
+        4152,
+        699
+      ],
+      "description": "https://www.tigard-or.gov/community/parks.php",
+      "type": "organization",
+      "scale": "1"
+    }
+  },
+  "date": 1628892526102
+}

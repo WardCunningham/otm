@@ -1,0 +1,50 @@
+{
+  "things": {
+    "Home": {
+      "dot": [
+        1005,
+        3053
+      ],
+      "description": "Where I've Lived. http://home.ward.asia.wiki.org/at-home-on-sw-67th-ave.html",
+      "type": "place",
+      "scale": "3"
+    },
+    "Portland Bike Trails": {
+      "dot": [
+        5115,
+        1424
+      ],
+      "description": "Portland has many miles of bicycle and pedestrian paths to help you increase your physical activity. This map is a useful guide for navigating SW stairways, bridges, trails and cut-throughs. Taking public transit is an easy way to increase the amount you walk too.\n\nSee https://www.portlandoregon.gov/transportation/article/321391 for more maps.",
+      "type": "organization",
+      "scale": "2"
+    },
+    "Scholls Ferry at US26": {
+      "dot": [
+        1519,
+        595
+      ],
+      "description": "45.508745,-122.7381277\n\nGoogle map https://www.google.com/maps/place/45%C2%B030'31.5%22N+122%C2%B044'09.4%22W/@45.508745,-122.7381277,851m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d45.508745!4d-122.735939!5m1!1e4",
+      "type": "latlon",
+      "scale": "3"
+    },
+    "SE 15th at Umatilla": {
+      "dot": [
+        5263,
+        3619
+      ],
+      "description": "45.4628933,-122.6532058\n\nGoogle map https://www.google.com/maps/place/SE+15th+Ave+%26+SE+Umatilla+St,+Portland,+OR+97202/@45.4628933,-122.6532058,852m/data=!3m2!1e3!4b1!4m5!3m4!1s0x54950ada86760ac9:0x930052559ef555d7!8m2!3d45.4628933!4d-122.6510171!5m1!1e4",
+      "type": "latlon",
+      "scale": "3"
+    },
+    "Council Crest Park": {
+      "dot": [
+        2754,
+        1272
+      ],
+      "description": "Route Advisory: Closures and construction coming to road atop Council Crest. https://bikeportland.org/2019/02/21/route-advisory-closures-and-construction-coming-to-road-atop-council-crest-295963",
+      "type": "place",
+      "scale": "3"
+    }
+  },
+  "date": 1628889125221
+}

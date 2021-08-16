@@ -1,0 +1,62 @@
+{
+  "data": {
+    "Trail Maps": {
+      "Tualatin Hills Parks": {
+        "extension": "jpg",
+        "things": [
+          "Fanno Creek Park",
+          "Home",
+          "Parks & Recreation HQ",
+          "Scholls Ferry at Beaverton Hillsdale",
+          "THPRD",
+          "West Union at Cornelius Pass"
+        ],
+        "types": [
+          "latlon",
+          "organization",
+          "place"
+        ],
+        "date": 1628868783023
+      },
+      "Portland Bike Trails": {
+        "extension": "jpg",
+        "things": [
+          "Council Crest Park",
+          "Home",
+          "Portland Bike Trails",
+          "SE 15th at Umatilla",
+          "Scholls Ferry at US26"
+        ],
+        "types": [
+          "latlon",
+          "organization",
+          "place"
+        ],
+        "date": 1628889125221
+      },
+      "Tigard Parks": {
+        "extension": "jpg",
+        "things": [
+          "75th Avenue at Locust",
+          "City of Tigard Parks",
+          "Hunters Glen",
+          "Tewksbury Road at Westminster"
+        ],
+        "types": [
+          "latlon",
+          "organization",
+          "place"
+        ],
+        "date": 1628892526102
+      }
+    }
+  },
+  "metadata": {
+    "types": [
+      "latlon",
+      "organization",
+      "place"
+    ]
+  },
+  "version": "12"
+}

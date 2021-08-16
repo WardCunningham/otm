@@ -1,0 +1,59 @@
+{
+  "things": {
+    "Parks & Recreation HQ": {
+      "dot": [
+        1515,
+        1786
+      ],
+      "description": "",
+      "type": "place",
+      "scale": "3"
+    },
+    "Home": {
+      "dot": [
+        3081,
+        3081
+      ],
+      "description": "See Street View for a closeup of my house. https://www.google.com/maps/@45.470054,-122.7462255,3a,54.7y,102.79h,93.62t/data=!3m7!1e1!3m5!1skDWHIT9XOgzlwhQmbf7Jqw!2e0!5s20151201T000000!7i13312!8i6656",
+      "type": "place",
+      "scale": "3"
+    },
+    "THPRD": {
+      "dot": [
+        2673,
+        995
+      ],
+      "description": "Learn more about this map and the organization. http://www.thprd.org/connect/news/new-thprd-nature-trails-map-now-available",
+      "type": "organization",
+      "scale": "2"
+    },
+    "Fanno Creek Park": {
+      "dot": [
+        2195,
+        3431
+      ],
+      "description": "",
+      "type": "place",
+      "scale": "4"
+    },
+    "West Union at Cornelius Pass": {
+      "dot": [
+        527,
+        594
+      ],
+      "description": "45.5663032,-122.8962533\n\nGoogle Map https://www.google.com/maps/place/NW+Cornelius+Pass+Rd+%26+NW+West+Union+Rd,+Hillsboro,+OR+97124/@45.5663032,-122.8962533,17z/data=!3m1!4b1!4m5!3m4!1s0x549505c3a80e6d19:0x7d77016670e89b45!8m2!3d45.5663032!4d-122.8940646",
+      "type": "latlon",
+      "scale": "3"
+    },
+    "Scholls Ferry at Beaverton Hillsdale": {
+      "dot": [
+        3039,
+        2684
+      ],
+      "description": "45.4861012,-122.7512866\n\nGoogle Map https://www.google.com/maps/place/SW+Beaverton+Hillsdale+Hwy+%26+SW+Scholls+Ferry+Rd,+Raleigh+Hills,+OR+97225/@45.4861012,-122.7512866,17z/data=!3m1!4b1!4m5!3m4!1s0x54950bf27e2fca17:0xee50ff7df6c6ffe5!8m2!3d45.4861012!4d-122.7490979",
+      "type": "latlon",
+      "scale": "3"
+    }
+  },
+  "date": 1628868783023
+}
