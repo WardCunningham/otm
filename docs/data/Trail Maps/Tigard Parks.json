@@ -35,7 +35,16 @@
       "description": "https://www.tigard-or.gov/community/parks.php",
       "type": "organization",
       "scale": "1"
+    },
+    "Tigard Outdoor Museum": {
+      "dot": [
+        2871,
+        1356
+      ],
+      "description": "This trail runs north along the railroad tracks.\n\nGoogle map. https://www.google.com/maps/place/Tigard+Outdoor+Museum/@45.4307979,-122.7733118,765m/data=!3m1!1e3!4m9!1m2!2m1!1sTigard+Outdoor+Museum!3m5!1s0x54950d7befb1c28f:0x822c62aa7f72bea6!8m2!3d45.4307825!4d-122.7712625!15sChVUaWdhcmQgT3V0ZG9vciBNdXNldW2SAQZtdXNldW0\nTrails wiki. http://trails.ward.asia.wiki.org/tigard-heritage-trail.html\n",
+      "type": "place",
+      "scale": "3"
     }
   },
-  "date": 1628892526102
+  "date": 1629154566363
 }
