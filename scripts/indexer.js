@@ -2,7 +2,7 @@
 // usage: (cd docs; deno run --allow-read=. ../scripts/indexer.js > new.json && mv new.json index.json)
 // usage: deno run --allow-read=. indexer.js > new.json && mv new.json index.json
 
-import { readJsonSync } from "https://deno.land/std/fs/read_json.ts"
+import { readJsonSync } from "https://deno.land/x/jsonfile/read_json.ts"
 const uniq = (value, index, self) => self.indexOf(value) === index;
 
 let cd = '.'
