@@ -1,0 +1,27 @@
+# This workflow adapted from Deno lint and test.
+# For more information see: https://github.com/denoland/setup-deno
+
+name: Indexer
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup repo
+        uses: actions/checkout@v2
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Run indexer
+        run: |
+          cd docs
+          deno run --allow-read=.. ../scripts/indexer.js > new.json
+          mv new.json index.json
